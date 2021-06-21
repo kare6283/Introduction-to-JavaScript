@@ -37,9 +37,14 @@ Do the following:
    HINT: no function required
 */
 
+let coffee = 'black';
+let flavor = 'strong';
 
+if(flavor === 'strong'){
+  coffee = 'without cream';
+}
 
-
+console.log('task 1 b', coffee);
 
 /*
 Task 1c - Convert Strings to Numbers
