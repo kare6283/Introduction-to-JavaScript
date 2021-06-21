@@ -57,8 +57,8 @@ Do the following:
    HINT: look up the Number method
 */
 
-
-
+const year = '1999';
+console.log('task 1 c', Number(year));
 
 /*
 Task 1d - Multiply
